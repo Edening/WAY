@@ -7,3 +7,5 @@ Season1 - Episode1 -【 [RemoteWorkers](https://github.com/search?o=desc&q=remot
 * ChinaBridge: Enabling flexible working in mainland China【HRBP】
 * Coach【Studio】
 * Culture and Community【Media, Conference, …】
+
+![Vision](6628D401-57A0-4762-B98D-89E9098A73E3.jpeg)
