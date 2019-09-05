@@ -9,3 +9,9 @@ Season1 - Episode1 -【 [RemoteWorkers](https://github.com/search?o=desc&q=remot
 * Culture and Community【Media, Conference, …】
 
 ![Vision](6628D401-57A0-4762-B98D-89E9098A73E3.jpeg)
+
+### Philosophy
+
+* Work is not merely a means for but an intrinsic part of a good integral life.
+* Workplace ought not to be a place.
+* Working from anywhere in anytime is not only possible but also reasonable.
