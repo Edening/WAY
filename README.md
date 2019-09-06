@@ -13,5 +13,5 @@ Season1 - Episode1 -【 [RemoteWorkers](https://github.com/search?o=desc&q=remot
 ### Philosophy
 
 * Work is not merely a means for but an intrinsic part of a good integral life.
-* Workplace ought not to be a place.
+* Workplace ought not to be a physical place.
 * Working from anywhere in anytime is not only possible but also reasonable.
