@@ -2,18 +2,18 @@
 
 > Work is and ought to be sth you do in your way(place, time, ...).
 
-###  Index
-
-- [RemoteOnly](https://gitlab.com/gitlab-com/www-remoteonly-org/blob/master/source/index.html.md) | [Chinese](https://github.com/Integ/remoteonly) 
-- [RemoteJobSearch@GitHub](https://github.com/search?o=desc&q=remote+job&s=stars&type=Repositories) 
-- [996.OUT.PATHWAY](https://github.com/Edening/996.OUT.Pathways) 
-
 ###  Being the Change
 ---
 Season1 - Episode1 - [iFlex](https://github.com/Edening/iFlex)
 * ChinaBridge: Enabling flexible working in mainland China【HRBP】
 * Coach【Studio】
 * Culture and Community【Media, Conference, …】
+
+###  Index
+
+- [RemoteOnly](https://gitlab.com/gitlab-com/www-remoteonly-org/blob/master/source/index.html.md) | [Chinese](https://github.com/Integ/remoteonly) 
+- [RemoteJobSearch@GitHub](https://github.com/search?o=desc&q=remote+job&s=stars&type=Repositories) 
+- [996.OUT.PATHWAY](https://github.com/Edening/996.OUT.Pathways) 
 
 ![Vision](6628D401-57A0-4762-B98D-89E9098A73E3.jpeg)
 
