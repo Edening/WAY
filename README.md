@@ -1,10 +1,11 @@
 # WAY(Working As Yourself): Facilitating Flexible Working.
 
-> Work is and ought to be sth you do in your way.
+> Work is and ought to be sth you do in your way(place, time, ...).
 
 ###  Index
-- [RemoteWorkers](https://github.com/search?o=desc&q=remote+job&s=stars&type=Repositories) 
+
 - [RemoteOnly](https://gitlab.com/gitlab-com/www-remoteonly-org/blob/master/source/index.html.md) | [Chinese](https://github.com/Integ/remoteonly) 
+- [RemoteJobSearch@GitHub](https://github.com/search?o=desc&q=remote+job&s=stars&type=Repositories) 
 - [996.OUT.PATHWAY](https://github.com/Edening/996.OUT.Pathways) 
 
 ###  Being the Change
